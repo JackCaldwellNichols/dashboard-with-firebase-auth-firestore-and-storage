@@ -1,0 +1,10 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Nunito';
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
